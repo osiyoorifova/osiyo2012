@@ -1,0 +1,73 @@
+<!-- asosiy fikr -->
+
+<section class="big-text">
+
+    <div class="container">
+
+        <p>
+            Ustozning haqiqiy yutug'i —
+            o'quvchisining <span>muvaffaqiyati.</span>
+        </p>
+
+    </div>
+
+</section>
+
+
+<!-- rahmat -->
+
+<section class="thanks" id="thanks">
+
+    <div class="container">
+
+        <div class="section-name">
+            SO'NGGI SO'Z
+        </div>
+
+        <h2>
+            RAHMAT, <span>USTOZ!</span>
+        </h2>
+
+        <p>
+            Bizga bilim berganingiz, xatolarimizni
+            to'g'rilaganingiz va har doim oldinga
+            intilishni o'rgatganingiz uchun rahmat.
+            Siz bergan bilim kelajagimiz uchun poydevordir.
+        </p>
+
+        <div class="heart">
+            ♥️
+        </div>
+
+    </div>
+
+</section>
+
+
+</main>
+
+
+<footer>
+
+    <div class="container">
+
+        <div class="footer-content">
+
+            <p>
+                <strong>USTOZ.</strong>
+                Kelajak poydevori
+            </p>
+
+            <p>
+                HTML & CSS
+            </p>
+
+        </div>
+
+    </div>
+
+</footer>
+
+
+</body>
+</html>
